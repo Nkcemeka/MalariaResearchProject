@@ -9,7 +9,7 @@ This is a research project that aims to explore the use of data augmentation tec
 
 # File Details
 - identify_mislabeled_errors.ipynb evaluates the dataset for mislabeled images
-- DCGANMalariaImageAugmentation.ipynb experiments with various data augmentation techniques
+- DCGAN_augmentation.ipynb, diffusionmodel.ipynb, WGAN-GP_augmentation.ipynb experiments with various data augmentation techniques
 - CNN_Vgg19models.ipynb develops deep learning models to classify the images
 
 
