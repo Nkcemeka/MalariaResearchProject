@@ -8,8 +8,9 @@ This is a research project that aims to explore the use of data augmentation tec
 
 # File Details
 - identify_mislabeled_errors.ipynb evaluates the dataset for mislabeled images
-- CNN_Vgg19models.ipynb develops deep learning models to classify the images
 - DCGANMalariaImageAugmentation.ipynb experiments with various data augmentation techniques
+- CNN_Vgg19models.ipynb develops deep learning models to classify the images
+
 
 # Project Goals
 1. The dataset used for this project is a popular one taken from the [official NIH website](https://ceb.nlm.nih.gov/repositories/malaria-datasets/). From research
