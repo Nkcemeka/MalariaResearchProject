@@ -21,4 +21,3 @@ This is a research project that aims to explore the use of data augmentation tec
    detectors.
 3. Although the option of sparse training images might be solved using Data Augmentation, we use two models: a CNN model created from scrach and the popular 
    pre-trained VGG19 to learn to differentiate malaria-infected images from uninfected ones.
->>>>>>> ba54d8c0bb8d60ebaed023f0a0484263c8d10752
