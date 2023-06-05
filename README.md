@@ -20,4 +20,4 @@ This is a research project that aims to explore the use of data augmentation tec
    By using GANS and diffusion models, we aim to generate synthetic images and see if they can play a useful role in developing efficient and effective malaria
    detectors.
 3. Although the option of sparse training images might be solved using Data Augmentation, we use two models: a CNN model created from scrach and the popular 
-   pre-trained VGG19 to learn to differentiate malaria-infected images from uninfected ones.
+   pre-trained VGG19 to learn to differentiate malaria-infected images from uninfected ones. The models would be trained on synthetic images and evaluated on real-world images. 
